@@ -30,6 +30,5 @@ See [CHANGELOG.md](./CHANGELOG.md)
  
 ## Screenshot
 
-![Screenshot](https://github.com/rokoroku/vscode-theme-darcula/raw/master/screenshot.png)
 ![Screenshot](https://github.com/shevv920/vscode-theme-darcula/raw/master/screenshot.png)
 **Enjoy!**

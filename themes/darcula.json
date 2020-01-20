@@ -85,7 +85,8 @@
       "name": "Keyword",
       "scope": "keyword,keyword.operator.new,keyword.operator.delete,keyword.operator.static,keyword.operator.this,keyword.operator.expression",
       "settings": {
-        "foreground": "#CC8242"
+        "foreground": "#CC8242",
+        "fontStyle": "bold"
       }
     },
     {
@@ -232,7 +233,7 @@
       "name": "Regex",
       "scope": "regex",
       "settings": {
-        "fontStyle": " italic"
+        "fontStyle": "italic"
       }
     },
     {

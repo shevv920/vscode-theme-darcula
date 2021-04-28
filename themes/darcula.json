@@ -466,6 +466,13 @@
       }
     },
     {
+      "name": "Perl specific",
+      "scope": ["variable.other.readwrite.perl"],
+      "settings": {
+        "foreground": "#9E7BB0"
+      }
+    },
+    {
       "name": "PHP variables",
       "scope": ["variable.other.property.php"],
       "settings": {
